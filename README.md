@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Pop Shells & Catch Fishes
+
+InHouse Tool Dev (My House kekw)
+
+Interests
+- AMSI/EDR Evasion
+- Network Penetration testing 
+- Active Directory & Azure Pentesting
+- All Things Red (Adv Emu, RT, Evasion)
+
+Love a good challenge
