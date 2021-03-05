@@ -28,7 +28,6 @@ Interests
 
 Love a good challenge
 <br><br>
-Love anything related to web app/cloud security, red & blue team TTPs, reverse engineering, malware, and exploit dev.
 </em></p>
 
 
