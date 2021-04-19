@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=p4yl0ad&show_icons=true&theme=vue-dark" width="380">
-<p><em>Pop Shells & Catch Fishes
+<p><em>wiggity woot im coming for that root
 
 InHouse Tool Dev (My House kekw)
 
 Interests
 - AMSI/EDR Evasion
-- Network Penetration testing 
+- Network redteaming & pentesting
 - Active Directory & Azure Pentesting
-- All Things Red (Adv Emu, RT, Evasion)
+- All Things Red (Adv Emu, RT, TTP's & Evasion)
 
 Love a good challenge
 <br><br>
