@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 Interests
 - AMSI/EDR Evasion
-- Network redteaming & pentesting
-- Active Directory & Azure Pentesting
+- Active Directory poon
 - All Things Red (Adv Emu, RT, TTP's & Evasion)
+- shitpost comments in code
 
 Love a good challenge
 <br><br>
