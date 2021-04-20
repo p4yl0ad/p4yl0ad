@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=p4yl0ad&show_icons=true&theme=vue-dark" width="380">
-<p><em>wiggity woot im coming for that rooty
+<p><em>wiggity woot im coming for that root
 
 Interests
 - AMSI/EDR Evasion
