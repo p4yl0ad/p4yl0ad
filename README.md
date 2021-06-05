@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=p4yl0ad&show_icons=true&theme=vue-dark" width="380">
-<p><em>Opinions are my own and do not represent any past present or future employers.
+<p><em>Opinions are my own and do not represent any past, present or future employers.
 
 Interests
 - AMSI/EDR Evasion
