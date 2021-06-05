@@ -16,13 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=p4yl0ad&show_icons=true&theme=vue-dark" width="380">
-<p><em>wiggity woot im coming for that root
+<p><em>Opinions are my own and do not represent any past present or future employers.
 
 Interests
 - AMSI/EDR Evasion
+- Programming/Tool Dev
 - Active Directory poon
 - All Things Red (Adv Emu, RT, TTP's & Evasion)
-- shitpost comments in code
+- shitpost comments in code / enjoying what I do
 
 Love a good challenge
 <br><br>
