@@ -1,16 +1,27 @@
-### Hi there 👋
+## Excerpt of vulnerabilities I found in the last years
 
-<!--
-**p4yl0ad/p4yl0ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 2020 
+- ASUS RT-ACG1200G+ Open Redirect [CVE-2022-48127]
 
-Here are some ideas to get you started:
+### 2023 
+- Zscaler Denial of Service             - 2023-12-11
+- Zscaler Hardened Runtime Bypass       - 2023-12-11
+- Zscaler "exit password" Bypass        - 2023-12-11
+- Zscaler Local Privilege Escalation    - 2023-12-11
+- Dropbox TCC Bypass                    - 2023-12-17
+- Dropbox TCC Bypass                    - 2023-12-17
+- Dropbox TCC Bypass                    - 2023-12-17
+- Dropbox TCC Bypass                    - 2023-12-17
+- Dropbox TCC Bypass                    - 2023-12-17
+- Upwork TCC Bypass                     - 2023-12-23
+- netSkope Local Privilege Escalation   - 2023-12-24
+- Logitech Local Privilege Escalation   - 2023-12-28
+- Logitech Local Privilege Escalation   - 2023-12-29
+- Amazon AWS Local Privilege Escalation - 2023-12-30
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2024
+- Front App TCC Bypass                  - 2024-01-01
+- Zscaler Local Privilege Escalation    - 2024-01-09
+- Zscaler Local Privilege Escalation    - 2024-01-09
+- WithSecure Local Privilege Escalation - 2024-01-15
+- WithSecure Denial of Service          - 2024-01-17
