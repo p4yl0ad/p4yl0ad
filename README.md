@@ -1,6 +1,6 @@
 ## Vulnerabilities I have found over the last couple of years
 
-### 2020 
+### 2022
 - ASUS RT-ACG1200G+ Open Redirect [CVE-2022-48127]
 
 ### 2023 
