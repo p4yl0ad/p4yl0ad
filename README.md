@@ -2,7 +2,7 @@
 
 ## 2022
 
-- **ASUS** - RT-ACG1200G+ Open Redirect [CVE-2022-48127]
+- **ASUS** - RT-ACG1200G+ Open Redirect [**CVE-2022-48127**]
 
 ## 2023 
 
@@ -23,9 +23,8 @@
 
 ## 2024
 
-- **Front** - App TCC Bypass
+- **Front** - TCC Bypass
 - **Zscaler** - Local Privilege Escalation
 - **Zscaler** - Local Privilege Escalation
-- **WithSecure** - Local Privilege Escalation [CVE-2024-27358]
-- **WithSecure** - Denial of Service [CVE-2024-27357]
-
+- **WithSecure** - Local Privilege Escalation [**CVE-2024-**27358]
+- **WithSecure** - Denial of Service [**CVE-2024-27357**]
