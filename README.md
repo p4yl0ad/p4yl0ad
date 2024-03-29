@@ -19,7 +19,7 @@
 - **netSkope** - Local Privilege Escalation
 - **Logitech** - Local Privilege Escalation
 - **Logitech** - Local Privilege Escalation
-- **Amazon AWS** - Local Privilege Escalation [TBD]
+
 
 ## 2024
 
@@ -28,3 +28,4 @@
 - **Zscaler** - Local Privilege Escalation
 - **WithSecure** - Local Privilege Escalation [**CVE-2024-**27358]
 - **WithSecure** - Denial of Service [**CVE-2024-27357**]
+- **Amazon AWS** - Local Privilege Escalation [CVE-2024-30165]
