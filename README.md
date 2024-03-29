@@ -26,6 +26,6 @@
 - **Front** - TCC Bypass
 - **Zscaler** - Local Privilege Escalation
 - **Zscaler** - Local Privilege Escalation
-- **WithSecure** - Local Privilege Escalation [**CVE-2024-**27358]
+- **WithSecure** - Local Privilege Escalation [**CVE-2024-27358**]
 - **WithSecure** - Denial of Service [**CVE-2024-27357**]
-- **Amazon AWS** - Local Privilege Escalation [CVE-2024-30165]
+- **Amazon AWS** - Local Privilege Escalation [**CVE-2024-30165**]
