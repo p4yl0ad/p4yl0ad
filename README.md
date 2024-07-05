@@ -9,7 +9,7 @@
 - **Zscaler** - Denial of Service
 - **Zscaler** - Hardened Runtime Bypass
 - **Zscaler** - "exit password" Bypass
-- **Zscaler** - Local Privilege Escalation [TBD]
+- **Zscaler** - Local Privilege Escalation [CVE-2024-23480](https://nvd.nist.gov/vuln/detail/CVE-2024-23480)
 - **Dropbox** - TCC Bypass
 - **Dropbox** - TCC Bypass
 - **Dropbox** - TCC Bypass
