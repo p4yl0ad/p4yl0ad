@@ -24,8 +24,9 @@
 ## 2024
 
 - **Front** - TCC Bypass 
-- **Zscaler** - Local Privilege Escalation
-- **Zscaler** - Local Privilege Escalation
-- **WithSecure** - Local Privilege Escalation [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358)
-- **WithSecure** - Denial of Service [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27357)
-- **Amazon AWS** - Local Privilege Escalation [CVE-2024-30165](https://nvd.nist.gov/vuln/detail/CVE-2024-30165)
+- **Zscaler** - Zscaler Client Connector Local Privilege Escalation
+- **Zscaler** - Zscaler Client Connector Local Privilege Escalation
+- **WithSecure** - WithSecure Elements Local Privilege Escalation [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358)
+- **WithSecure Elements** - WithSecure Elements Denial of Service [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27357)
+- **Amazon** - Amazon AWS VPN Local Privilege Escalation [CVE-2024-30165](https://nvd.nist.gov/vuln/detail/CVE-2024-30165)
+- **WithSecure** - WithSecure Elements Denial of Service [CVE-2024-XXXXX]()
