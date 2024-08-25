@@ -1,29 +1,25 @@
-# Vulnerabilities I have found over the last couple of years
+# CVEs
 
-
-
-
-
-| Company | Bug | CVE |
-| --- | --- | --- |
-| **ASUS**         | RT-ACG1200G+ Router Webserver Open Redirect         | [CVE-2022-48127](https://nvd.nist.gov/vuln/detail/CVE-2022-48127) |
-| **Zscaler**      | Local Privilege Escalation                          | [CVE-2024-23480](https://nvd.nist.gov/vuln/detail/CVE-2024-23480) |
-| **WithSecure**   | WithSecure Elements Local Privilege Escalation      | [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358) |
-| **WithSecure**   | WithSecure Elements Denial of Service               | [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27357) |
-| **Amazon**       | Amazon AWS VPN Local Privilege Escalation           | [CVE-2024-30165](https://nvd.nist.gov/vuln/detail/CVE-2024-30165) |
-| **WithSecure**   | WithSecure Elements Denial of Service               |  |
-| **Zscaler**      | Denial of Service                                   |  |
-| **Zscaler**      | Hardened Runtime Bypass                             |  |
-| **Zscaler**      | "exit password" Bypass                              |  |
-| **Dropbox**      | TCC Bypass                                          |  |
-| **Dropbox**      | TCC Bypass                                          |  |
-| **Dropbox**      | TCC Bypass                                          |  |
-| **Dropbox**      | TCC Bypass                                          |  |
-| **Dropbox**      | TCC Bypass                                          |  |
-| **Upwork**       | TCC Bypass                                          |  |
-| **netSkope**     | Local Privilege Escalation                          |  |
-| **Logitech**     | Local Privilege Escalation                          |  |
-| **Logitech**     | Local Privilege Escalation                          |  |
-| **Front**        | TCC Bypass                                          |  |
-| **Zscaler**      | Zscaler Client Connector Local Privilege Escalation |  |
-| **Zscaler**      | Zscaler Client Connector Local Privilege Escalation |  |
+| CVE ID | Title |
+| :---: | --- |
+| [CVE-2022-48127](https://nvd.nist.gov/vuln/detail/CVE-2022-48127) | RT-ACG1200G+ Router Webserver Open Redirect | 
+| [CVE-2024-23480](https://nvd.nist.gov/vuln/detail/CVE-2024-23480) | Zscaler Client Connector NSXPC Local Privilege Escalation | 
+| [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358) | WithSecure Elements Installer Local Privilege Escalation | 
+| [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27357) | WithSecure Elements Installer Denial of Service | 
+| [CVE-2024-30165](https://nvd.nist.gov/vuln/detail/CVE-2024-30165) | Amazon AWS VPN XPC Local Privilege Escalation | 
+| | WithSecure Elements installer Denial of Service |  
+| | Zscaler Client Connector Windows Denial of Service | 
+| | Zscaler Client Connector macOS Hardened Runtime Bypass |  
+| | Zscaler Client Connector XPC macOS "exit password" Bypass | 
+| | Dropbox macOS TCC Bypass | 
+| | Dropbox macOS TCC Bypass | 
+| | Dropbox macOS TCC Bypass |  
+| | Dropbox macOS TCC Bypass | 
+| | Dropbox macOS TCC Bypass | 
+| | Upwork macOS TCC Bypass | 
+| | netSkope installer macOS Local Privilege Escalation | 
+| | Logitech macOS Local Privilege Escalation | 
+| | Logitech macOS Local Privilege Escalation | 
+| | Front macOS TCC Bypass | 
+| | Zscaler Client Connector installer Local Privilege Escalation | 
+| | Zscaler Client Connector installer Local Privilege Escalation | 
