@@ -10,7 +10,7 @@
 | | WithSecure Elements installer Denial of Service |  
 | | Zscaler Client Connector Windows Denial of Service | 
 | | Zscaler Client Connector macOS Hardened Runtime Bypass |  
-| [CVE-2022-48127](https://nvd.nist.gov/vuln/detail/CVE-2022-48127) | Zscaler Client Connector XPC macOS "exit password" Bypass | 
+| [CVE-2024-23480](https://nvd.nist.gov/vuln/detail/CVE-2024-23480) | Zscaler Client Connector XPC macOS "exit password" Bypass | 
 | | Dropbox macOS TCC Bypass | 
 | | Dropbox macOS TCC Bypass | 
 | | Dropbox macOS TCC Bypass |  
