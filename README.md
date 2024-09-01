@@ -4,8 +4,8 @@
 | :---: | --- |
 | [CVE-2022-48127](https://nvd.nist.gov/vuln/detail/CVE-2022-48127) | Asus RT-ACG1200G+ Router Webserver Open Redirect | 
 | [CVE-2024-23480](https://nvd.nist.gov/vuln/detail/CVE-2024-23480) | Zscaler Client Connector NSXPC Local Privilege Escalation | 
-| [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358) | WithSecure Elements Installer Local Privilege Escalation | 
-| [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27357) | WithSecure Elements Installer Denial of Service | 
+| [CVE-2024-27357](https://nvd.nist.gov/vuln/detail/CVE-2024-27357) | WithSecure Elements Installer Local Privilege Escalation | 
+| [CVE-2024-27358](https://nvd.nist.gov/vuln/detail/CVE-2024-27358) | WithSecure Elements Installer Denial of Service | 
 | [CVE-2024-30165](https://nvd.nist.gov/vuln/detail/CVE-2024-30165) | Amazon AWS VPN XPC Local Privilege Escalation | 
 | | WithSecure Elements installer Denial of Service |  
 | | Zscaler Client Connector Windows Denial of Service | 
