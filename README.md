@@ -23,5 +23,5 @@
 | Dupe | macOS Application | Zscaler | Zscaler Client Connector Installer Local Privilege Escalation |
 | Dupe | macOS Application | Zscaler | Zscaler Client Connector Installer Local Privilege Escalation |
 | TBD | TBD | IBM | IBM Product |
-| TBD | TBD | VMWare | VMWare Product |
+| TBD | TBD | VMware | VMware Product |
 | TBD | TBD | Palo Alto | Palo Alto Product |
