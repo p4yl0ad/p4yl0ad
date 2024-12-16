@@ -22,3 +22,6 @@
 | Bugcrowd | macOS Application | Front TCC Bypass |
 | Dupe | macOS Application | Zscaler Client Connector Installer Local Privilege Escalation |
 | Dupe | macOS Application | Zscaler Client Connector Installer Local Privilege Escalation |
+| TBD | TBD | IBM Product |
+| TBD | TBD | VMWare Product |
+| TBD | TBD | Palo Alto Product |
